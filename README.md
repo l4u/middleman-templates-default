@@ -1,5 +1,7 @@
-# Default Middleman Project Template
+# Middleman Project Template with HAML
 
-This is the [Middleman] template used when you run `middleman init`.
+```
+middleman init MY_PROJECT_FOLDER -T l4u/middleman-templates-haml
+```
 
 [Middleman]: https://middlemanapp.com/
